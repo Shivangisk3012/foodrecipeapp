@@ -1,8 +1,8 @@
 import { CiPizza } from 'react-icons/ci';
 import { CiBurger } from 'react-icons/ci';
-import { TbSoup } from 'react-icons/Tb';
-import { GiChopsticks } from 'react-icons/Gi';
-import { BsSearch } from 'react-icons/Bs';
+import { TbSoup } from 'react-icons/tb';
+import { GiChopsticks } from 'react-icons/gi';
+import { BsSearch } from 'react-icons/bs';
 import { ImSpoonKnife } from 'react-icons/im';
 import { motion } from "framer-motion"
 import { Link ,useNavigate} from "react-router-dom"
