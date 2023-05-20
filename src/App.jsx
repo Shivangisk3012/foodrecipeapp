@@ -1,6 +1,6 @@
 import Header from "./components/Header"
 import { BrowserRouter } from "react-router-dom"
-import Pages from "./pages/pages"
+import Pages from "./pages/Page"
 
 function App() {
   return (
