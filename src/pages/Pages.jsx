@@ -3,7 +3,7 @@ import Home from "./Home"
 import Recipe from "./Recipe"
 import { Searched } from "./Searched"
 import {Routes, Route} from "react-router-dom"
-import Category from "./category"
+import Category from "./Category"
 const Pages = () => {
   return (
     <div className="h-full mt-2">
